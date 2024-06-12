@@ -7,3 +7,13 @@ C:\Srini\TestSolution\Database1\obj\Debug\Model.xml
 C:\Srini\TestSolution\Database1\obj\Debug\refactor.xml
 C:\Srini\TestSolution\Database1\obj\Debug\postdeploy.sql
 C:\Srini\TestSolution\Database1\obj\Debug\predeploy.sql
+C:\Srini\GitHub\PipelineTest\Database1\bin\Debug\Database1.dacpac
+C:\Srini\GitHub\PipelineTest\Database1\bin\Debug\Database1.dll
+C:\Srini\GitHub\PipelineTest\Database1\bin\Debug\Database1.pdb
+C:\Srini\GitHub\PipelineTest\Database1\obj\Debug\Database1.sqlproj.AssemblyReference.cache
+C:\Srini\GitHub\PipelineTest\Database1\obj\Debug\Model.xml
+C:\Srini\GitHub\PipelineTest\Database1\obj\Debug\refactor.xml
+C:\Srini\GitHub\PipelineTest\Database1\obj\Debug\postdeploy.sql
+C:\Srini\GitHub\PipelineTest\Database1\obj\Debug\predeploy.sql
+C:\Srini\GitHub\PipelineTest\Database1\obj\Debug\Database1.dll
+C:\Srini\GitHub\PipelineTest\Database1\obj\Debug\Database1.pdb

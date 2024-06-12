@@ -1,0 +1,11 @@
+
+*.dbmdl
+*.dacpac
+/Database2/bin
+/Database1/obj
+/Database1/obj
+/Database1/obj
+/Database1/bin
+/Database2/obj
+/Integration Services Project1/bin
+Database1/Database1.jfm
